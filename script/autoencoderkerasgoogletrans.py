@@ -62,7 +62,7 @@ with open('/home/ahmad/duplicate-detection/eventregistrydata/pairs/FastTextenwor
 print len(enwords)
 
 
-service = build('translate', 'v2',developerKey='AIzaSyCqpf3hXzheoI9ttfw9JWhMRHtYt5Z72X4')
+
 arwordsTrans=[]
 
 n=len(arwordsTrans)
